@@ -15,8 +15,8 @@ this repo contains Facade design pattern implementation using C#
   
 <br/>
   
-##  معلومات المتدرب
-###  اسم المتدرب:  رياض الغامدي
-### اسم المجموعة:  الدرعية
+##  معلومات المطور
+###  اسم المطور:  رياض الغامدي
+###
 
 </div>
